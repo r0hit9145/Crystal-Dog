@@ -2,6 +2,8 @@
 
 Throughout this internship, I had an amazing learning journey:
 
+<h1>Development: https://www.linkedin.com/posts/rohitjangid091_bharatintern-task3-machinelearning-activity-7205875314256736256-yKCe?utm_source=share&utm_medium=member_desktop<h1>
+
 Throughout my project journey, I have had a vital role, I make sure my comments at each step that I made step by step so that I can understand in the future when I need to go through.
 
 Week 1: This is a crucial step in the data science process:
