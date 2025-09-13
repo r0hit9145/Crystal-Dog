@@ -1,8 +1,8 @@
-🎉<b>Excited<b> to share that it was not quite easy for a fresher to search for an internship and learn itself, finally after self-dedication, I got this internship I completed my 1-month Data Science internship and received my certificate from Bharat Intern! 🙌
+🎉<b>Excited<b> to share that it was not quite easy for a fresher to search for an internship and learn on their own. Finally, after self-dedication, I got this internship. I completed my 1-month Data Science internship and received my certificate from Bharat Intern! 🙌
 
 Throughout this internship, I had an amazing learning journey:
 
-<h1>Development: https://www.linkedin.com/posts/rohitjangid091_bharatintern-task3-machinelearning-activity-7205875314256736256-yKCe?utm_source=share&utm_medium=member_desktop<h1>
+<h6>Development: https://www.linkedin.com/posts/rohitjangid091_bharatintern-task3-machinelearning-activity-7205875314256736256-yKCe?utm_source=share&utm_medium=member_desktop<h6>
 
 Throughout my project journey, I have had a vital role, I make sure my comments at each step that I made step by step so that I can understand in the future when I need to go through.
 
